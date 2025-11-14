@@ -1,9 +1,9 @@
 # [9219] Demystifying RAG: Build a Retrieval-Augmented Generation App from Scratch 
-## GHC Workshop by Ayushe
+## GHC '25 Workshop by Ayushe
 
 Below is everything you need to get started with this RAG workshop, plus curated reading to go deeper into chunking, embeddings, vector databases, and retrieval systems.
 
-[Slides](https://docs.google.com/presentation/d/1yCwr32Zp-vYc2q_4YHA5wJiTn4I4kGvWnE2w9snXehE/edit?usp=sharing)
+## [Slides!!](https://docs.google.com/presentation/d/1yCwr32Zp-vYc2q_4YHA5wJiTn4I4kGvWnE2w9snXehE/edit?usp=sharing)
 
 ---
 
@@ -29,7 +29,7 @@ On the open notebook popup and choose this repository
   
 
 ---
-## 📚 ** Further Reading & Useful Links**
+## 📚 **Further Reading & Useful Links**
 
 ### ⭐ Gemini API Docs
 
