@@ -3,6 +3,8 @@
 
 Below is everything you need to get started with this RAG workshop, plus curated reading to go deeper into chunking, embeddings, vector databases, and retrieval systems.
 
+[Slides](https://docs.google.com/presentation/d/1yCwr32Zp-vYc2q_4YHA5wJiTn4I4kGvWnE2w9snXehE/edit?usp=sharing)
+
 ---
 
 ## ✅ **Setup Instructions**
@@ -22,11 +24,9 @@ Go to [https://colab.research.google.com/](https://colab.research.google.com/)
 
 On the open notebook popup and choose this repository 
 
-- **Beginner Notebook**  
-  (link here)
+- **Notebook**  
+  [(study_buddy_rag.ipynb)](https://github.com/ayushenagpal/rag-workshop-ghc25/blob/main/study_buddy_rag.ipynb)
   
-- **Minimal Notebook**  
-  (link here)
 
 ---
 ## 📚 ** Further Reading & Useful Links**
